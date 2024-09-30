@@ -1,0 +1,1 @@
+[2024-06-02 22:42:09] main.EMERGENCY: File:/home/dotzdemo/public_html/arkfoods/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:331Message:No query results for model [App\Transaction] 730  
